@@ -387,4 +387,4 @@ MIT
 
 ---
 
-[GitHub](https://github.com/codixverse/totp) | [Issues](https://github.com/codixverse/totp/issues) | [Codixverse](https://codixverse.xyz)
+[GitHub](https://github.com/Codixverse/codixverse-totp) | [Issues](https://github.com/Codixverse/codixverse-totp/issues) | [Codixverse](https://codixverse.xyz)
